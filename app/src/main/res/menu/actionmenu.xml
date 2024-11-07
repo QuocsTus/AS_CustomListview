@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnuSoftName"
+        android:title="Soft by Name" />
+    <item
+        android:id="@+id/mnuSoftPhone"
+        android:title="Soft by Phone" />
+    <item
+        android:id="@+id/mnuBroadcast"
+        android:title="Broadcast" />
+</menu>
